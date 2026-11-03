@@ -1,0 +1,19 @@
+# IDE
+.idea/
+.gigaide/
+*.iml
+*.ipr
+*.iws
+*.mod
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Logs
+*.log
