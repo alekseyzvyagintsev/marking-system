@@ -1,6 +1,7 @@
 # IDE
 .idea/
 .gigaide/
+.gigacode/
 *.iml
 *.ipr
 *.iws
